@@ -1,0 +1,12 @@
+{
+  "name": "esm-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "codefarmer.tw",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21"
+  }
+}
